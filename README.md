@@ -23,4 +23,8 @@ fun to-celcius(f):
   (f - 32) * (5 / 9)
 end
 ```
+
+## The Solutions
+Each ML solution set contains classifer programs and the corresponding theory file, and got me an average of 91% in the project.
+
  
